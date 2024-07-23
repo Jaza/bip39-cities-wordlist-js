@@ -1,8 +1,8 @@
 {
   "name": "bip39-cities-wordlist",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JS version of the BIP39 cities wordlist.",
-  "main": "dist/lib.js",
+  "main": "dist/cities.js",
   "scripts": {
     "build-ts": "tsc",
     "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
